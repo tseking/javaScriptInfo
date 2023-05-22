@@ -1,0 +1,2 @@
+JavsScript中有七种原始类型：
+string，number，bigint,boolean,symbol,null和undefiend

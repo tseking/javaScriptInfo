@@ -1,2 +1,5 @@
 JavsScript中有七种原始类型：
 string，number，bigint,boolean,symbol,null和undefiend
+
+一个对象能够存储多个值作为属性，可以使用大括号{}创建对象。
+javaScript中还有其他种类的对象，例如函数就是对象
